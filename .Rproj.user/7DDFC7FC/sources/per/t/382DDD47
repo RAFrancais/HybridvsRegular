@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586389922502.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "382DDD47",
+    "lastKnownWriteTime" : 2557225978512,
+    "last_content_update" : 1586389922502,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "E2BA7924",
+        "caption" : "RelativePrice",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=RelativePrice&cache_key=E2BA7924",
+        "displayedObservations" : "5",
+        "environment" : "",
+        "expression" : "RelativePrice",
+        "object" : "RelativePrice",
+        "preview" : "0",
+        "totalObservations" : "5",
+        "variables" : "2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586770235489.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "57D78644",
+    "lastKnownWriteTime" : 7809651250879753839,
+    "last_content_update" : 1586770235489,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "AC75DEBD",
+        "caption" : "licenses",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=licenses&cache_key=AC75DEBD",
+        "displayedObservations" : 8,
+        "environment" : "",
+        "expression" : "licenses",
+        "object" : "licenses",
+        "preview" : 0,
+        "totalObservations" : 8,
+        "variables" : 2
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

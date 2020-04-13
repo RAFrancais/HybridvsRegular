@@ -1,0 +1,11 @@
+﻿Model,Manufacturer,Price,cMPG,hMPG,combinedMPG,Year
+Camry LE,Toyota,22600,25,35,30,2012
+Camry Hybrid LE,Toyota,25990,43,39,41,2012
+Fusion SEL,Ford,25425,23,33,28,2012
+Fusion SEL Hybrid,Ford,28775,41,36,38.5,2012
+Civic EX,Honda,20655,28,39,33.5,2012
+Civic Hybrid,Honda,24200,44,44,44,2012
+Sonata GLS,Hyundai,20795,24,35,29.5,2012
+Sonata Hybrid,Hyundai,25850,34,39,36.5,2012
+Optima LX,Kia,21000,24,35,29.5,2012
+Optima Hybrid,Kia,25800,34,39,36.5,2012

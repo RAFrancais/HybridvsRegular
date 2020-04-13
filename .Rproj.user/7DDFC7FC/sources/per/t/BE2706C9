@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586167176225.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BE2706C9",
+    "lastKnownWriteTime" : 1402020081480,
+    "last_content_update" : 1586167176225,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "9E29EDBA",
+        "caption" : "CAgas",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=CAgas&cache_key=9E29EDBA",
+        "displayedObservations" : "8",
+        "environment" : "",
+        "expression" : "CAgas",
+        "object" : "CAgas",
+        "preview" : "0",
+        "totalObservations" : "8",
+        "variables" : "3"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585200589183.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FFFBF791",
+    "lastKnownWriteTime" : 3548067076488918113,
+    "last_content_update" : 1585200589183,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "B7A93895",
+        "caption" : "PCE",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=PCE&cache_key=B7A93895",
+        "displayedObservations" : "8",
+        "environment" : "",
+        "expression" : "PCE",
+        "object" : "PCE",
+        "preview" : "0",
+        "totalObservations" : "8",
+        "variables" : "2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

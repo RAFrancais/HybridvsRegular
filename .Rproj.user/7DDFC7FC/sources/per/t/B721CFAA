@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585194281111.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1933840475",
+    "id" : "B721CFAA",
+    "lastKnownWriteTime" : 1586773479,
+    "last_content_update" : 1586773479144,
+    "path" : "D:/RLearning/HybridvsRegular/HybridvRegularv2.R",
+    "project_path" : "HybridvRegularv2.R",
+    "properties" : {
+        "cursorPosition" : "84,0",
+        "scrollLine" : "65",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
